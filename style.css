@@ -1,36 +1,31 @@
 .heading
 {
-    font-size: 23px;
-    width: 100%;
-    margin: 0px;
-    box-shadow: 5px 5px 5px grey;
-}
-
-.copy_write_footer
-{
-   position: fixed;
-   width: 100%;
-   bottom: 0;
-   color: white; 
-   text-align: center;
-   background-color: black;
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
 }
 
 .note
 {
-    font-size: 15px;
-    color: black;
+  font-size: 15px;
+  color: black;
 }
 
-canvas
+.copy_right_footer 
 {
-    box-shadow: 10px 10px 10px orangered;
-    border-radius: 18px;
-    border: 5px solid yellow;
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color:brown;
+  line-height: 3;
+  text-align: center;
 }
 
-
-
-
-
-
+canvas 
+{
+  border:5px solid white;
+  border-radius:20px;
+  box-shadow:5px 5px 5px grey;
+}
